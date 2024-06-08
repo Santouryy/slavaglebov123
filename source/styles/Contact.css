@@ -1,0 +1,42 @@
+.nav-link{
+    color: aliceblue;
+}
+
+
+.navbar-nav .nav-link.active {
+    color: aliceblue;
+}
+
+
+.navbar-brand img{
+    width: 40px;
+}
+
+.navbar-toggler{
+    background-color: aliceblue;
+}
+
+.row-carousel{
+    margin: auto auto;
+}
+
+
+
+
+
+.foother-text{
+    color: aliceblue;
+    
+}
+
+
+
+
+.panell{
+    background-color: rgb(61, 61, 61);
+}
+
+
+.call-anim{
+    animation: myAnim 2s ease 0s 999999999 normal forwards;
+}
